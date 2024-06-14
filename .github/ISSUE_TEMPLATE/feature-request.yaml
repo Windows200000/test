@@ -32,7 +32,7 @@ body:
       required: false
 
   - type: textarea
-  id: thing
+    id: thing
     attributes:
       label: Solution(s)
       description: What do you want to happen/change.
