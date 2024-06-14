@@ -35,7 +35,7 @@ body:
     attributes:
       label: Solution(s)
       description: What do you want to happen/change.
-      placeholder: "Don't hide tray icon when TDM Window is open."
+      placeholder: Don't hide tray icon when TDM Window is open.
     validations:
       required: true
 
@@ -43,7 +43,6 @@ body:
     attributes:
       label: Additional notes
       description: Add any other context, ideas or screenshots about the feature request here.
-      placeholder: |
-        
+      placeholder: Maybe, there should be an option to hide/show it.
     validations:
       required: false
