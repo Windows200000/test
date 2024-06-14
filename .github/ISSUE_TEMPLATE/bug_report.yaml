@@ -35,9 +35,9 @@ body:
       label: To Reproduce
       description: Steps to reproduce the behavior. Being able to reliably cause a bug can often result in a quick fix.
       placeholder: |
-        1. Add Rust Twitch Drops
-        2. Reload
-        3. Got to Inventory tab
+        1. Add Rust Twitch Drops\n
+        2. Reload\n
+        3. Got to Inventory tab\n
     validations:
       required: true
 
