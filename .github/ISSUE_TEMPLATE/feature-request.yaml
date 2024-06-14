@@ -35,7 +35,7 @@ body:
     attributes:
       label: Solution(s)
       description: What do you want to happen/change.
-      placeholder: Don\'t hide tray icon when TDM Window is open.
+      placeholder: "Don't hide tray icon when TDM Window is open."
     validations:
       required: true
 
